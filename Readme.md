@@ -82,7 +82,6 @@ Task1_Student_Grade_Tracker
 │
 ├── task1.java
 ├── README.md
-└── screenshots
 ```
 
 ---
@@ -136,10 +135,6 @@ The application handles:
 **Gourvansh Airen Agarwal**
 
 Java Programming Intern — CodeAlpha
-
-GitHub: *Add Your GitHub Profile Link*
-
-LinkedIn: *Add Your LinkedIn Profile Link*
 
 ---
 
